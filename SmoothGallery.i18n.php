@@ -675,6 +675,7 @@ De volgende {{PLURAL:$2|afbeelding is|afbeeldingen zijn}} niet aangetroffen: $1'
 
 /** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
  * @author Harald Khan
+ * @author Njardarlogar
  */
 $messages['nn'] = array(
 	'smoothgallery' => 'Jamnt galleri',
