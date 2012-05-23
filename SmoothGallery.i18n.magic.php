@@ -20,6 +20,11 @@ $magicWords['arz'] = array(
 	'sgallery' => array( 0, 'معرض_سلس', 'sgallery' ),
 );
 
+/** German (Deutsch) */
+$magicWords['de'] = array(
+	'sgallery' => array( 0, 'sgalerie' ),
+);
+
 /** Spanish (Español) */
 $magicWords['es'] = array(
 	'sgallery' => array( 0, 'galerías', 'galerias' ),
