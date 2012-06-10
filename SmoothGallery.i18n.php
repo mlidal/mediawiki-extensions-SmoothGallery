@@ -510,8 +510,11 @@ SmoothGallery のほとんどのオプションを利用できるようにする
 	'smoothgallery-smoothgallerytitle' => 'スムーズギャラリー：$1',
 	'smoothgallery-error' => '<b>スムーズギャラリーのエラー：</b>',
 	'smoothgallery-gallery-not-found' => '要求したギャラリーは存在しません。',
-	'smoothgallery-not-found' => 'このギャラリーには画像がありません。最低でも1つは画像を指定してください。',
-	'smoothgallery-no-images' => 'このギャラリーには画像がありません。指定した{{PLURAL:$3|画像が|画像がすべて}}存在するか確認してください。次の{{PLURAL:$2|画像}}は見つかりませんでした: $1',
+	'smoothgallery-not-found' => 'ギャラリーに画像がありません。
+画像を少なくとも1つ指定してください。',
+	'smoothgallery-no-images' => 'このギャラリーには画像がありません。
+指定した{{PLURAL:$3|画像が|画像がすべて}}存在するか確認してください。
+以下の{{PLURAL:$2|画像}}は見つかりませんでした: $1',
 	'smoothgallery-invalid-images' => '要求された次の{{PLURAL:$2|画像}}は不正な形式です: $1',
 	'smoothgallery-unexpected-error' => '予期しないエラーが発生しました。
 バグ報告を提出してください。',
