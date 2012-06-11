@@ -25,7 +25,7 @@ $magicWords['de'] = array(
 	'sgallery' => array( 0, 'sgalerie' ),
 );
 
-/** Spanish (Español) */
+/** Spanish (español) */
 $magicWords['es'] = array(
 	'sgallery' => array( 0, 'galerías', 'galerias' ),
 );
@@ -35,7 +35,12 @@ $magicWords['ja'] = array(
 	'sgallery' => array( 0, 'Sギャラリー' ),
 );
 
-/** Macedonian (Македонски) */
+/** Korean (한국어) */
+$magicWords['ko'] = array(
+	'sgallery' => array( 0, 's갤러리' ),
+);
+
+/** Macedonian (македонски) */
 $magicWords['mk'] = array(
 	'sgallery' => array( 0, 'мгалерија' ),
 );
@@ -55,12 +60,12 @@ $magicWords['nl'] = array(
 	'sgallery' => array( 0, 'sgalerij' ),
 );
 
-/** Serbian (Cyrillic script) (‪Српски (ћирилица)‬) */
+/** Serbian (Cyrillic script) (‪српски (ћирилица)‬) */
 $magicWords['sr-ec'] = array(
 	'sgallery' => array( 0, 'сгалерија' ),
 );
 
-/** Serbian (Latin script) (‪Srpski (latinica)‬) */
+/** Serbian (Latin script) (‪srpski (latinica)‬) */
 $magicWords['sr-el'] = array(
 	'sgallery' => array( 0, 'sgalerija' ),
 );
