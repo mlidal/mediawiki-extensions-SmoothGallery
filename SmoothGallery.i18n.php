@@ -497,6 +497,19 @@ Mohon kirimkan sebuah laporan bug.',
 	'smoothgallery-javascript-disabled' => 'Penjelajah Anda membutuhkan JavaScript untuk menampilkan galeri ini dengan benar.',
 );
 
+/** Italian (italiano)
+ * @author Beta16
+ */
+$messages['it'] = array(
+	'smoothgallery-title' => 'SmoothGallery',
+	'smoothgallery-smoothgallerytitle' => 'SmoothGallery: $1',
+	'smoothgallery-error' => '<b>Errore SmoothGallery:</b>',
+	'smoothgallery-gallery-not-found' => 'La galleria richiesta non esiste.',
+	'smoothgallery-not-found' => "Nessuna immagine è stata aggiunta ella galleria.
+Si prega di aggiungere almeno un'immagine.",
+	'smoothgallery-javascript-disabled' => 'JavaScript è necessario per visualizzare correttamente questa galleria.',
+);
+
 /** Japanese (日本語)
  * @author Aotake
  * @author Fryed-peach
