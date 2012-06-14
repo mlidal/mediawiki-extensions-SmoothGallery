@@ -118,7 +118,7 @@ $messages['be-tarask'] = array(
 	'smoothgallery-javascript-disabled' => 'Для прагляду гэтай галерэі неабходны JavaScript.',
 );
 
-/** Bulgarian (Български)
+/** Bulgarian (български)
  * @author DCLXVI
  * @author Spiritia
  */
@@ -144,7 +144,7 @@ $messages['bn'] = array(
 	'smoothgallery-gallery-not-found' => 'অনুরোধকৃত গ্যালারিটি নেই।',
 );
 
-/** Breton (Brezhoneg)
+/** Breton (brezhoneg)
  * @author Fohanno
  * @author Fulup
  * @author Y-M D
@@ -168,7 +168,7 @@ Leugnit un danevell draen, mar plij.",
 	'smoothgallery-javascript-disabled' => 'Rekis eo JavaScript evit gwelet ervat ar skeudennaoueg.',
 );
 
-/** Bosnian (Bosanski)
+/** Bosnian (bosanski)
  * @author CERminator
  */
 $messages['bs'] = array(
@@ -190,7 +190,7 @@ Molimo ispunite izvještaj o grešci.',
 	'smoothgallery-javascript-disabled' => 'Da bi ste pravilno pregledali ovu galeriju neophodna Vam je Javascript.',
 );
 
-/** Catalan (Català)
+/** Catalan (català)
  * @author Paucabot
  */
 $messages['ca'] = array(
@@ -279,7 +279,7 @@ Bonvolu fari ciman raporton.',
 	'smoothgallery-javascript-disabled' => 'Javascript estas deviga pro vidi ĉi tiun galerion ĝuste.',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Crazymadlover
  */
 $messages['es'] = array(
@@ -301,7 +301,7 @@ Por favor archive un reporte de errores.',
 	'smoothgallery-javascript-disabled' => 'JavaScript es requerido para ver esta galería apropiadamente.',
 );
 
-/** Finnish (Suomi)
+/** Finnish (suomi)
  * @author Str4nd
  */
 $messages['fi'] = array(
@@ -317,7 +317,7 @@ Ole hyvä ja tee virheraportti.',
 	'smoothgallery-javascript-disabled' => 'Tämän gallerian täydelliseen näyttämiseen vaaditaan JavaScript-tuki.',
 );
 
-/** French (Français)
+/** French (français)
  * @author Crochet.david
  * @author Dereckson
  * @author Grondin
@@ -340,7 +340,7 @@ Vérifiez que {{PLURAL:$3|l’image requise existe|toutes les images requises ex
 	'smoothgallery-javascript-disabled' => 'JavaScript est nécessaire pour voir cette galerie d’images (<code><nowiki><gallery>...</gallery></nowiki></code>).',
 );
 
-/** Franco-Provençal (Arpetan)
+/** Franco-Provençal (arpetan)
  * @author ChrisPtDe
  */
 $messages['frp'] = array(
@@ -430,7 +430,7 @@ $messages['hsb'] = array(
 	'smoothgallery-javascript-disabled' => 'Javascript je trjeba, zo by so tuta galerija prawje zwobrazniła.',
 );
 
-/** Hungarian (Magyar)
+/** Hungarian (magyar)
  * @author Dani
  * @author Glanthor Reviol
  */
@@ -454,7 +454,7 @@ Légyszíves készíts hibajelentést.',
 	'smoothgallery-javascript-disabled' => 'A galéria helyes megjelenítéséhez JavaScript szükséges.',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
@@ -604,7 +604,7 @@ Fëllt w.e.g. eng Feelermeldung (bug report) aus.',
 	'smoothgallery-javascript-disabled' => 'JavaScriot gëtt gebraucht fir dës Gallerie korrekt ze gesinn.',
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
@@ -691,7 +691,7 @@ De volgende {{PLURAL:$2|afbeelding is|afbeeldingen zijn}} niet aangetroffen: $1'
 	'smoothgallery-javascript-disabled' => 'JavaScript dient ingeschakeld te zijn om deze galerij goed te kunnen bekijken.',
 );
 
-/** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
+/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
  * @author Harald Khan
  * @author Njardarlogar
  */
@@ -714,7 +714,7 @@ Lever ein feilrapport.',
 	'smoothgallery-javascript-disabled' => 'Javascript er nødvendig for å visa dette galleriet på rett måte.',
 );
 
-/** Occitan (Occitan)
+/** Occitan (occitan)
  * @author Cedric31
  */
 $messages['oc'] = array(
@@ -733,7 +733,7 @@ Verificatz que {{PLURAL:$3|l'imatge requerit existís|totes los imatges requerit
 	'smoothgallery-javascript-disabled' => "JavaScript es necessari per veire aquesta galariá d'imatges (<code><nowiki><gallery>...</gallery></nowiki></code>).",
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author Derbeth
  * @author Maikking
  * @author Sp5uhe
@@ -784,7 +784,7 @@ $messages['ps'] = array(
 ته اړتيا ده.',
 );
 
-/** Portuguese (Português)
+/** Portuguese (português)
  * @author Hamilton Abreu
  * @author Malafaya
  */
@@ -807,7 +807,7 @@ Por favor, reporte o problema.',
 	'smoothgallery-javascript-disabled' => 'Javascript é requerido para ver esta galeria adequadamente.',
 );
 
-/** Brazilian Portuguese (Português do Brasil)
+/** Brazilian Portuguese (português do Brasil)
  * @author Eduardo.mps
  */
 $messages['pt-br'] = array(
@@ -829,14 +829,14 @@ Por favor, reporte o problema.',
 	'smoothgallery-javascript-disabled' => 'Javascript é requerido para visualizar esta galeria adequadamente.',
 );
 
-/** Romanian (Română)
+/** Romanian (română)
  * @author KlaudiuMihaila
  */
 $messages['ro'] = array(
 	'smoothgallery-gallery-not-found' => 'Galeria cerută nu există.',
 );
 
-/** Russian (Русский)
+/** Russian (русский)
  * @author Александр Сигачёв
  */
 $messages['ru'] = array(
@@ -856,7 +856,7 @@ $messages['ru'] = array(
 	'smoothgallery-javascript-disabled' => 'Для правильной работы этой галереи требуется Javascript.',
 );
 
-/** Slovak (Slovenčina)
+/** Slovak (slovenčina)
  * @author Helix84
  */
 $messages['sk'] = array(
@@ -875,7 +875,7 @@ Uistite sa, že {{PLURAL:$3|požadovaný obrázok existuje|všetky požadované 
 	'smoothgallery-javascript-disabled' => 'Správne zobrazenie tejto galérie vyžaduje JavaScript.',
 );
 
-/** Serbian (Cyrillic script) (‪Српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
  * @author Rancher
  * @author Sasa Stefanovic
  * @author Михајло Анђелковић
@@ -897,7 +897,7 @@ $messages['sr-ec'] = array(
 	'smoothgallery-javascript-disabled' => 'Јаваскрипт је потребан за правилан приказ галерије.',
 );
 
-/** Serbian (Latin script) (‪Srpski (latinica)‬)
+/** Serbian (Latin script) (‪srpski (latinica)‬)
  * @author Michaello
  * @author Rancher
  */
@@ -918,7 +918,7 @@ Osigurajte se da {{PLURAL:$3|zahtevana slika postoji|sve zahtevane slike postoje
 	'smoothgallery-javascript-disabled' => 'Javaskript je potreban za pravilan prikaz galerije.',
 );
 
-/** Swedish (Svenska)
+/** Swedish (svenska)
  * @author M.M.S.
  * @author Najami
  */
@@ -1000,7 +1000,7 @@ $messages['vo'] = array(
 	'smoothgallery-gallery-not-found' => 'Magodem pavilöl no dabinon.',
 );
 
-/** Simplified Chinese (‪中文(简体)‬)
+/** Simplified Chinese (‪中文（简体）‬)
  * @author Liangent
  * @author Linforest
  */
@@ -1023,7 +1023,7 @@ $messages['zh-hans'] = array(
 	'smoothgallery-javascript-disabled' => '需要JavaScript以正常检视本图片廊。',
 );
 
-/** Traditional Chinese (‪中文(繁體)‬)
+/** Traditional Chinese (‪中文（繁體）‬)
  * @author Mark85296341
  * @author Wrightbus
  */
