@@ -501,12 +501,21 @@ Mohon kirimkan sebuah laporan bug.',
  * @author Beta16
  */
 $messages['it'] = array(
+	'smoothgallery' => 'SmoothGallery',
+	'smoothgallery-desc' => 'Consente agli utenti di creare gallerie con le immagini che sono state caricate.
+Permette la maggior parte delle opzioni di SmoothGallery',
 	'smoothgallery-title' => 'SmoothGallery',
 	'smoothgallery-smoothgallerytitle' => 'SmoothGallery: $1',
 	'smoothgallery-error' => '<b>Errore SmoothGallery:</b>',
 	'smoothgallery-gallery-not-found' => 'La galleria richiesta non esiste.',
 	'smoothgallery-not-found' => "Nessuna immagine è stata aggiunta ella galleria.
 Si prega di aggiungere almeno un'immagine.",
+	'smoothgallery-no-images' => "Nessuna immagine è stata trovata in questa galleria.
+Controllare che {{PLURAL:$3|l'immagine richiesta esista|le immagini richieste esistano}}.
+{{PLURAL:$2|La seguente immagine non è stata trovata|Le seguenti immagini non sono state trovate}}: $1",
+	'smoothgallery-invalid-images' => '{{PLURAL:$2|La seguente immagine richiesta è|Le seguenti immagini richieste sono}} di un tipo non valido: $1',
+	'smoothgallery-unexpected-error' => "Si è verificato un'errore imprevisto.
+Si prega di inviare una segnalazione per il malfunzionamento.",
 	'smoothgallery-javascript-disabled' => 'JavaScript è necessario per visualizzare correttamente questa galleria.',
 );
 
