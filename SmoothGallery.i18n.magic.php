@@ -25,6 +25,11 @@ $magicWords['de'] = array(
 	'sgallery' => array( 0, 'sgalerie' ),
 );
 
+/** Zazaki (Zazaki) */
+$magicWords['diq'] = array(
+	'sgallery' => array( 0, 'dgaleri' ),
+);
+
 /** Spanish (español) */
 $magicWords['es'] = array(
 	'sgallery' => array( 0, 'galerías', 'galerias' ),
