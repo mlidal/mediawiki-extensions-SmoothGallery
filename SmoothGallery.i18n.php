@@ -95,7 +95,7 @@ $messages['arz'] = array(
 	'smoothgallery-javascript-disabled' => 'الجافاسكريبت مطلوب لرؤية هذا المعرض جيدا.',
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  * @author Zedlik
  */
@@ -226,7 +226,7 @@ $messages['de-formal'] = array(
 	'smoothgallery-unexpected-error' => 'Es ist ein unerwarteter Fehler aufgetreten. Bitte schreiben Sie eine Fehlermeldung.',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -350,7 +350,7 @@ $messages['frp'] = array(
 	'smoothgallery-error' => '<b>Èrror de SmoothGallery :</b>',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Alma
  * @author Toliño
  * @author Xosé
@@ -413,7 +413,7 @@ $messages['he'] = array(
 	'smoothgallery-javascript-disabled' => 'על מנת לצפות בדף זה כראוי נדרש JavaScript.',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
