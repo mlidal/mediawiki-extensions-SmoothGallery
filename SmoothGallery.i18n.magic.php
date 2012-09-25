@@ -65,12 +65,12 @@ $magicWords['nl'] = array(
 	'sgallery' => array( 0, 'sgalerij' ),
 );
 
-/** Serbian (Cyrillic script) (‪српски (ћирилица)‬) */
+/** Serbian (Cyrillic script) (српски (ћирилица)‎) */
 $magicWords['sr-ec'] = array(
 	'sgallery' => array( 0, 'сгалерија' ),
 );
 
-/** Serbian (Latin script) (‪srpski (latinica)‬) */
+/** Serbian (Latin script) (srpski (latinica)‎) */
 $magicWords['sr-el'] = array(
 	'sgallery' => array( 0, 'sgalerija' ),
 );
