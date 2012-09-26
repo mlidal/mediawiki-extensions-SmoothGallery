@@ -1031,11 +1031,26 @@ $messages['zh-hans'] = array(
 	'smoothgallery-javascript-disabled' => '需要JavaScript以正常检视本图片廊。',
 );
 
-/** Traditional Chinese (‪中文（繁體）‬)
+/** Traditional Chinese (中文（繁體）‎)
  * @author Mark85296341
  * @author Wrightbus
  */
 $messages['zh-hant'] = array(
+	'smoothgallery' => 'SmoothGallery',
+	'smoothgallery-desc' => '允許用戶採用已經上載的圖片創建畫廊。
+允許SmoothGallery的大多數選項',
+	'smoothgallery-title' => 'SmoothGallery',
+	'smoothgallery-smoothgallerytitle' => 'SmoothGallery：$1',
+	'smoothgallery-error' => '<b>SmoothGallery錯誤：</b>',
+	'smoothgallery-gallery-not-found' => '所請求的畫廊並不存在。',
+	'smoothgallery-not-found' => '該畫廊當中尚未添加圖片。
+請添加至少一幅圖片。',
+	'smoothgallery-no-images' => '在該畫廊之中並未找到任何圖片。
+請確保存在所請求的{{PLURAL:$3|圖片|所有圖片}}。
+未找到下列{{PLURAL:$2|圖片|圖片}}：$1',
+	'smoothgallery-invalid-images' => '所請求的下列{{PLURAL:$2|圖片|圖片}}屬於無效類型：$1',
+	'smoothgallery-unexpected-error' => '存在一個意外錯誤。
+請提出一份缺陷報告。',
 	'smoothgallery-javascript-disabled' => '需要 JavaScript 以正常檢視本圖片廊。',
 );
 
