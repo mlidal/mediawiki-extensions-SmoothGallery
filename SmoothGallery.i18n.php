@@ -95,7 +95,7 @@ $messages['arz'] = array(
 	'smoothgallery-javascript-disabled' => 'الجافاسكريبت مطلوب لرؤية هذا المعرض جيدا.',
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  * @author Zedlik
  */
@@ -219,7 +219,7 @@ $messages['de'] = array(
 	'smoothgallery-javascript-disabled' => 'JavaScript wird benötigt, um die Galerie darzustellen.',
 );
 
-/** German (formal address) (‪Deutsch (Sie-Form)‬)
+/** German (formal address) (Deutsch (Sie-Form)‎)
  * @author Imre
  */
 $messages['de-formal'] = array(
@@ -658,7 +658,7 @@ $messages['mr'] = array(
 	'smoothgallery-javascript-disabled' => 'हे प्रदर्शन पाहण्यासाठी जावास्क्रीप्टची गरज आहे.',
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬)
+/** Norwegian Bokmål (norsk (bokmål)‎)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
@@ -699,7 +699,7 @@ De volgende {{PLURAL:$2|afbeelding is|afbeeldingen zijn}} niet aangetroffen: $1'
 	'smoothgallery-javascript-disabled' => 'JavaScript dient ingeschakeld te zijn om deze galerij goed te kunnen bekijken.',
 );
 
-/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
+/** Norwegian Nynorsk (norsk (nynorsk)‎)
  * @author Harald Khan
  * @author Njardarlogar
  */
@@ -883,7 +883,7 @@ Uistite sa, že {{PLURAL:$3|požadovaný obrázok existuje|všetky požadované 
 	'smoothgallery-javascript-disabled' => 'Správne zobrazenie tejto galérie vyžaduje JavaScript.',
 );
 
-/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (српски (ћирилица)‎)
  * @author Rancher
  * @author Sasa Stefanovic
  * @author Михајло Анђелковић
@@ -905,7 +905,7 @@ $messages['sr-ec'] = array(
 	'smoothgallery-javascript-disabled' => 'Јаваскрипт је потребан за правилан приказ галерије.',
 );
 
-/** Serbian (Latin script) (‪srpski (latinica)‬)
+/** Serbian (Latin script) (srpski (latinica)‎)
  * @author Michaello
  * @author Rancher
  */
@@ -1008,7 +1008,7 @@ $messages['vo'] = array(
 	'smoothgallery-gallery-not-found' => 'Magodem pavilöl no dabinon.',
 );
 
-/** Simplified Chinese (‪中文（简体）‬)
+/** Simplified Chinese (中文（简体）‎)
  * @author Liangent
  * @author Linforest
  */
