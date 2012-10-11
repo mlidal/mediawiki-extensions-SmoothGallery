@@ -105,7 +105,7 @@ function initSmoothGalleryPF( $parser ) {
 }
 
 function initSmoothGalleryTag( $input, $argv, $parser ) {
-	$output = initSmoothGallery( $input, $args, $parser );
+	$output = initSmoothGallery( $input, $argv, $parser );
 
 	return $output;
 }
