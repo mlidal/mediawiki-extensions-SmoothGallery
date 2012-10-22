@@ -32,9 +32,11 @@ Please file a bug report.',
 /** Message documentation (Message documentation)
  * @author Purodha
  * @author The Evil IP address
+ * @author Umherirrender
  */
 $messages['qqq'] = array(
 	'smoothgallery-desc' => '{{desc}}',
+	'smoothgallery-pagetext' => '{{notranslate}}',
 	'smoothgallery-no-images' => '* $1 is a comma separated list
 * $2 is the number of elements in the list
 * $3 is the number of images actually requested',
@@ -578,6 +580,7 @@ $messages['ksh'] = array(
 	'smoothgallery-desc' => 'Määt et müjjelesch, Jallerieje met huhjelade Bellder opzebouwe, met de miehßte Enstellunge fun <i lang="en">SmoothGallery</i>.',
 	'smoothgallery-title' => '<i lang="en">SmoothGallery</i>',
 	'smoothgallery-smoothgallerytitle' => '<i lang="en">SmoothGallery</i>: $1',
+	'smoothgallery-pagetext' => '-',
 	'smoothgallery-error' => '<b><i lang="en">SmoothGallery</i> hät ene Fähler jefonge:</b>',
 	'smoothgallery-gallery-not-found' => 'Die Jalleri jit et nit.',
 	'smoothgallery-not-found' => 'En dä Jalleri sen kein Bellder dren.
@@ -651,8 +654,8 @@ $messages['mr'] = array(
 कृपया कमीतकमी एक चित्र वाढवा.',
 	'smoothgallery-no-images' => 'प्रदर्शनात एकही चित्र सापडले नाही.
 कृपया खात्री करा की मागितलेली सर्व चित्रे अस्तित्वात आहेत.
-खालील चित्रे सापडली नाहीत: $1',
-	'smoothgallery-invalid-images' => 'खालील मागितलेली चित्रे चुकीच्या प्रकारातील आहेत: $1',
+खालील चित्रे सापडली नाहीत: $1', # Fuzzy
+	'smoothgallery-invalid-images' => 'खालील मागितलेली चित्रे चुकीच्या प्रकारातील आहेत: $1', # Fuzzy
 	'smoothgallery-unexpected-error' => 'एक अनपेक्षित त्रुटी आलेली आहे.
 कृपया त्रुटी अहवाल पाठवा.',
 	'smoothgallery-javascript-disabled' => 'हे प्रदर्शन पाहण्यासाठी जावास्क्रीप्टची गरज आहे.',
@@ -1053,4 +1056,3 @@ $messages['zh-hant'] = array(
 請提出一份缺陷報告。',
 	'smoothgallery-javascript-disabled' => '需要 JavaScript 以正常檢視本圖片廊。',
 );
-
