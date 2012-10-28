@@ -580,7 +580,6 @@ $messages['ksh'] = array(
 	'smoothgallery-desc' => 'Määt et müjjelesch, Jallerieje met huhjelade Bellder opzebouwe, met de miehßte Enstellunge fun <i lang="en">SmoothGallery</i>.',
 	'smoothgallery-title' => '<i lang="en">SmoothGallery</i>',
 	'smoothgallery-smoothgallerytitle' => '<i lang="en">SmoothGallery</i>: $1',
-	'smoothgallery-pagetext' => '-',
 	'smoothgallery-error' => '<b><i lang="en">SmoothGallery</i> hät ene Fähler jefonge:</b>',
 	'smoothgallery-gallery-not-found' => 'Die Jalleri jit et nit.',
 	'smoothgallery-not-found' => 'En dä Jalleri sen kein Bellder dren.
