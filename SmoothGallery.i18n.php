@@ -228,6 +228,16 @@ $messages['de-formal'] = array(
 	'smoothgallery-unexpected-error' => 'Es ist ein unerwarteter Fehler aufgetreten. Bitte schreiben Sie eine Fehlermeldung.',
 );
 
+/** Zazaki (Zazaki)
+ * @author Erdemaslancan
+ */
+$messages['diq'] = array(
+	'smoothgallery' => 'MergaGaleri',
+	'smoothgallery-title' => 'MergaGaleri',
+	'smoothgallery-smoothgallerytitle' => 'MergaGaleri:$1',
+	'smoothgallery-error' => '<b>Xırabiya MergaGaleri:</b>',
+);
+
 /** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
