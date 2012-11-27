@@ -55,7 +55,7 @@ $magicWords['mr'] = array(
 	'sgallery' => array( 0, 'मृदूदिर्घा', 'sgallery' ),
 );
 
-/** Nedersaksisch (Nedersaksisch) */
+/** Nedersaksies (Nedersaksies) */
 $magicWords['nds-nl'] = array(
 	'sgallery' => array( 0, 'suutstallige', 'sgalerij' ),
 );
