@@ -314,6 +314,7 @@ Por favor archive un reporte de errores.',
 );
 
 /** Finnish (suomi)
+ * @author Nedergard
  * @author Str4nd
  */
 $messages['fi'] = array(
@@ -324,6 +325,8 @@ Käyttää suurinta osaa SmoothGalleryn ominaisuuksista',
 	'smoothgallery-smoothgallerytitle' => 'SmoothGallery: $1',
 	'smoothgallery-error' => '<b>SmoothGalleryn virhe:</b>',
 	'smoothgallery-gallery-not-found' => 'Pyydettyä galleriaa ei ole.',
+	'smoothgallery-not-found' => 'Galleriaan ei ole lisätty kuvia.
+Lisää ainakin yksi kuva.',
 	'smoothgallery-unexpected-error' => 'Havaittiin odottamaton virhe.
 Ole hyvä ja tee virheraportti.',
 	'smoothgallery-javascript-disabled' => 'Tämän gallerian täydelliseen näyttämiseen vaaditaan JavaScript-tuki.',
