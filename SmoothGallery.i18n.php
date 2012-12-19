@@ -673,6 +673,28 @@ $messages['mr'] = array(
 	'smoothgallery-javascript-disabled' => 'हे प्रदर्शन पाहण्यासाठी जावास्क्रीप्टची गरज आहे.',
 );
 
+/** Malay (Bahasa Melayu)
+ * @author Anakmalaysia
+ */
+$messages['ms'] = array(
+	'smoothgallery' => 'SmoothGallery',
+	'smoothgallery-desc' => 'Membolehkan pengguna membuat galeri dengan gambar-gambar yang sedia dimuat naik.
+Membolehkan kebanyakan pilihan SmoothGallery',
+	'smoothgallery-title' => 'SmoothGallery',
+	'smoothgallery-smoothgallerytitle' => 'SmoothGallery: $1',
+	'smoothgallery-error' => '<b>Ralat pada SmoothGallery:</b>',
+	'smoothgallery-gallery-not-found' => 'Galeri yang dipohon tidak wujud.',
+	'smoothgallery-not-found' => 'Tiada gambar diisikan ke dalam galeri.
+Sila isikan sekurang-kurangnya satu gambar.',
+	'smoothgallery-no-images' => 'Tiada gambar dijumpai di dalam galeri ini.
+Pastikan {{PLURAL:$3|gambar|semua gambar}} yang dipohon wujud.
+{{PLURAL:$2|Gambar|Gambar-gambar}} yang berikut tidak dijumpai: $1',
+	'smoothgallery-invalid-images' => '{{PLURAL:$2|Gambar|Gambar-gambar}} dipohon yang berikut tidak sah jenisnya: $1',
+	'smoothgallery-unexpected-error' => 'Berlakunya ralat yang tidak dijangka.
+Sila failkan laporan pepijat.',
+	'smoothgallery-javascript-disabled' => 'JavaScript diperlukan untuk memaparkan galeri ini dengan betul.',
+);
+
 /** Norwegian Bokmål (norsk (bokmål)‎)
  * @author Nghtwlkr
  */
