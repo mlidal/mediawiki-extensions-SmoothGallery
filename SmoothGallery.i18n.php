@@ -721,7 +721,8 @@ Følgende {{PLURAL:$2|bilde|bilder}} ble ikke funnet: $1',
  */
 $messages['nl'] = array(
 	'smoothgallery' => 'SmoothGallery',
-	'smoothgallery-desc' => 'Stelt gebruikers in staat galerijen te maken met aanwezige afbeeldingen. Ondersteunt bijna alle mogelijkheden van SmoothGallery',
+	'smoothgallery-desc' => 'Stelt gebruikers in staat galerijen te maken met aanwezige afbeeldingen.
+Ondersteunt bijna alle mogelijkheden van SmoothGallery',
 	'smoothgallery-title' => 'SmoothGallery',
 	'smoothgallery-smoothgallerytitle' => 'SmoothGallery: $1',
 	'smoothgallery-error' => '<b>SmoothGallery fout:</b>',
@@ -732,7 +733,8 @@ Voeg alstublieft tenminste één afbeelding toe.',
 Zorg ervoor dat {{PLURAL:$3|het bestand bestaat|alle bestanden bestaan}}.
 De volgende {{PLURAL:$2|afbeelding is|afbeeldingen zijn}} niet aangetroffen: $1',
 	'smoothgallery-invalid-images' => '{{PLURAL:$2|Het|De}} volgende aangevraagde {{PLURAL:$2|bestand heeft|bestanden hebben}} een ongeldig type: $1',
-	'smoothgallery-unexpected-error' => 'Er is een onverwachte fout opgetreden. Dien alstublieft een foutrapport in.',
+	'smoothgallery-unexpected-error' => 'Er is een onverwachte fout opgetreden.
+Maak alstublieft melding van deze fout.',
 	'smoothgallery-javascript-disabled' => 'JavaScript dient ingeschakeld te zijn om deze galerij goed te kunnen bekijken.',
 );
 
