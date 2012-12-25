@@ -1017,6 +1017,28 @@ $messages['tr'] = array(
 	'smoothgallery-gallery-not-found' => 'İstenen galeri mevcut değil.',
 );
 
+/** Ukrainian (українська)
+ * @author Steve.rusyn
+ * @author Ата
+ */
+$messages['uk'] = array(
+	'smoothgallery' => 'Плавна галерея',
+	'smoothgallery-desc' => 'Дозволяє користувачам створювати галереї із завантажених ними зображень
+Дозволяє більшість опцій SmoothGallery',
+	'smoothgallery-title' => 'Плавна галерея',
+	'smoothgallery-smoothgallerytitle' => 'Плавна галерея: $1',
+	'smoothgallery-error' => '<b>Помилка плавної галереї:</b>',
+	'smoothgallery-gallery-not-found' => 'Запитувана галерея не існує.',
+	'smoothgallery-not-found' => 'До галереї не було додано жодного зображення. Будь ласка, додайте принаймні одне.',
+	'smoothgallery-no-images' => 'Не було знайдено жодних зображень у цій галереї.
+Переконайтеся, що {{PLURAL:$3|запитуване зображення існує|запитувані зображення існують}}.
+Було знайдено {{PLURAL:$2|таке зображення|такі зображення}}: $1',
+	'smoothgallery-invalid-images' => '{{PLURAL:$2|Запитуване зображення має|Такі запитувані зображення мають}} неприпустимий тип: $1',
+	'smoothgallery-unexpected-error' => 'Сталася неочікувана помилка.
+Будь ласка, надішліть звіт про помилку.',
+	'smoothgallery-javascript-disabled' => 'Для належного перегляду галереї необхідний JavaScript.',
+);
+
 /** Vietnamese (Tiếng Việt)
  * @author Minh Nguyen
  * @author Vinhtantran
