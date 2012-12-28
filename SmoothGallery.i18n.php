@@ -628,6 +628,14 @@ Fëllt w.e.g. eng Feelermeldung (bug report) aus.',
 	'smoothgallery-javascript-disabled' => 'JavaScriot gëtt gebraucht fir dës Gallerie korrekt ze gesinn.',
 );
 
+/** Latvian (latviešu)
+ * @author Papuass
+ */
+$messages['lv'] = array(
+	'smoothgallery-unexpected-error' => 'Radās neparedzēta kļūda.
+Lūdzu, iesniedziet kļūdas ziņojumu.',
+);
+
 /** Macedonian (македонски)
  * @author Bjankuloski06
  */
