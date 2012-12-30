@@ -911,6 +911,16 @@ $messages['ru'] = array(
 	'smoothgallery-javascript-disabled' => 'Для правильной работы этой галереи требуется Javascript.',
 );
 
+/** Sinhala (සිංහල)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['si'] = array(
+	'smoothgallery' => 'සෞම්‍යගැලරිය',
+	'smoothgallery-title' => 'සෞම්‍යගැලරිය',
+	'smoothgallery-smoothgallerytitle' => 'සෞම්‍යගැලරිය: $1',
+	'smoothgallery-error' => '<b>සෞම්‍යගැලරි දෝෂය:</b>',
+);
+
 /** Slovak (slovenčina)
  * @author Helix84
  */
