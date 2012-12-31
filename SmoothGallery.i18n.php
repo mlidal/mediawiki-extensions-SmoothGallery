@@ -886,8 +886,11 @@ Por favor, reporte o problema.',
 
 /** Romanian (română)
  * @author KlaudiuMihaila
+ * @author Stelistcristi
  */
 $messages['ro'] = array(
+	'smoothgallery-title' => 'SmoothGallery',
+	'smoothgallery-smoothgallerytitle' => 'SmoothGallery: $1',
 	'smoothgallery-gallery-not-found' => 'Galeria cerută nu există.',
 );
 
@@ -919,6 +922,7 @@ $messages['si'] = array(
 	'smoothgallery-title' => 'සෞම්‍යගැලරිය',
 	'smoothgallery-smoothgallerytitle' => 'සෞම්‍යගැලරිය: $1',
 	'smoothgallery-error' => '<b>සෞම්‍යගැලරි දෝෂය:</b>',
+	'smoothgallery-gallery-not-found' => 'අයදූ ගැලරිය නොපවතී.',
 );
 
 /** Slovak (slovenčina)
