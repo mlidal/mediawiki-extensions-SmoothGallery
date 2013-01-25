@@ -545,7 +545,7 @@ $messages['ja'] = array(
 SmoothGallery のほとんどのオプションを利用できるようにする',
 	'smoothgallery-title' => 'スムーズギャラリー',
 	'smoothgallery-smoothgallerytitle' => 'スムーズギャラリー：$1',
-	'smoothgallery-error' => '<b>スムーズギャラリーのエラー：</b>',
+	'smoothgallery-error' => '<b>スムーズギャラリーのエラー:</b>',
 	'smoothgallery-gallery-not-found' => '要求したギャラリーは存在しません。',
 	'smoothgallery-not-found' => 'ギャラリーに画像がありません。
 画像を少なくとも1つ指定してください。',
