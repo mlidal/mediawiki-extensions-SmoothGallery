@@ -566,6 +566,26 @@ $messages['jv'] = array(
 	'smoothgallery-javascript-disabled' => 'Javascript iku diperlokaké kanggo ndeleng galeri iki sacara bener.',
 );
 
+/** Georgian (ქართული)
+ * @author David1010
+ */
+$messages['ka'] = array(
+	'smoothgallery' => 'გლუვი გალერეა',
+	'smoothgallery-title' => 'გლუვი გალერეა',
+	'smoothgallery-smoothgallerytitle' => 'გლუვი გალერეა: $1',
+	'smoothgallery-error' => '<b>გლუვი გალერეის შეცდომა:</b>',
+	'smoothgallery-gallery-not-found' => 'მოხოვნილი გალერეა არ არსებობს.',
+	'smoothgallery-not-found' => 'გალერეაში არ დამატებულა სურათი. 
+გთხოვთ, ერთი მაინც დაამატოთ.',
+	'smoothgallery-no-images' => 'ამ გალერეისათვის სურათი ვერ მოიძებნა.
+დარწმუნდით, რომ {{PLURAL:$3|მოთხოვნილი სურათი|ყველა მოთხოვნილი სურათი}} არსებობს.
+შემდეგი {{PLURAL:$2|სურათი|სურათი}} ვერ მოიძებნა: $1',
+	'smoothgallery-invalid-images' => 'შემდეგ მოთხოვნილ {{PLURAL:$2|სურათს გააჩნია|სურათს გააჩნიათ}} არასწორი ტიპი: $1',
+	'smoothgallery-unexpected-error' => 'მოხდა გაუთვალისწინებელი შეცდომა.
+გთხოვთ, გააგზავნეთ შეცდომის ანგარიში.',
+	'smoothgallery-javascript-disabled' => 'ამ გალერეის გამართულად მუშაობისათვის საჭიროა ჯავასკრიპტი.',
+);
+
 /** Khmer (ភាសាខ្មែរ)
  * @author Chhorran
  * @author Thearith
