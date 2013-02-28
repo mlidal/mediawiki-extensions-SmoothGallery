@@ -31,11 +31,12 @@ Please file a bug report.',
 
 /** Message documentation (Message documentation)
  * @author Purodha
+ * @author Shirayuki
  * @author The Evil IP address
  * @author Umherirrender
  */
 $messages['qqq'] = array(
-	'smoothgallery-desc' => '{{desc}}',
+	'smoothgallery-desc' => '{{desc|name=Smooth Gallery|url=http://www.mediawiki.org/wiki/Extension:SmoothGallery}}',
 	'smoothgallery-pagetext' => '{{notranslate}}',
 	'smoothgallery-no-images' => '* $1 is a comma separated list
 * $2 is the number of elements in the list
