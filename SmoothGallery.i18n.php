@@ -37,6 +37,8 @@ Please file a bug report.',
  */
 $messages['qqq'] = array(
 	'smoothgallery-desc' => '{{desc|name=Smooth Gallery|url=http://www.mediawiki.org/wiki/Extension:SmoothGallery}}',
+	'smoothgallery-smoothgallerytitle' => 'Unused at this time. Parameters:
+* $1 - ...',
 	'smoothgallery-pagetext' => '{{notranslate}}',
 	'smoothgallery-no-images' => '* $1 is a comma separated list
 * $2 is the number of elements in the list
