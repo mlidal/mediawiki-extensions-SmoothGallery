@@ -759,13 +759,13 @@ Ondersteunt bijna alle mogelijkheden van SmoothGallery',
 	'smoothgallery-error' => '<b>SmoothGallery fout:</b>',
 	'smoothgallery-gallery-not-found' => 'De gevraagde galerij bestaat niet.',
 	'smoothgallery-not-found' => 'Er zijn geen afbeeldingen opgenomen in een galerij.
-Voeg alstublieft tenminste één afbeelding toe.',
+Voeg tenminste één afbeelding toe.',
 	'smoothgallery-no-images' => 'Er zijn geen bestanden aangetroffen in deze galerij.
 Zorg ervoor dat {{PLURAL:$3|het bestand bestaat|alle bestanden bestaan}}.
 De volgende {{PLURAL:$2|afbeelding is|afbeeldingen zijn}} niet aangetroffen: $1',
 	'smoothgallery-invalid-images' => '{{PLURAL:$2|Het|De}} volgende aangevraagde {{PLURAL:$2|bestand heeft|bestanden hebben}} een ongeldig type: $1',
 	'smoothgallery-unexpected-error' => 'Er is een onverwachte fout opgetreden.
-Maak alstublieft melding van deze fout.',
+Maak melding van deze fout.',
 	'smoothgallery-javascript-disabled' => 'JavaScript dient ingeschakeld te zijn om deze galerij goed te kunnen bekijken.',
 );
 
