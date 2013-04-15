@@ -613,7 +613,7 @@ $messages['km'] = array(
  */
 $messages['ksh'] = array(
 	'smoothgallery' => '<i lang="en">SmoothGallery</i>',
-	'smoothgallery-desc' => 'Määt et müjjelesch, Jallerieje met huhjelade Bellder opzebouwe, met de miehßte Enstellunge fun <i lang="en">SmoothGallery</i>.',
+	'smoothgallery-desc' => 'Määd et möjjelesch, Jallerieje met huhjelade Bellder opzebouwe, met de miehßte Enschtällonge fun <i lang="en">SmoothGallery</i>.',
 	'smoothgallery-title' => '<i lang="en">SmoothGallery</i>',
 	'smoothgallery-smoothgallerytitle' => '<i lang="en">SmoothGallery</i>: $1',
 	'smoothgallery-error' => '<b><i lang="en">SmoothGallery</i> hät ene Fähler jefonge:</b>',
