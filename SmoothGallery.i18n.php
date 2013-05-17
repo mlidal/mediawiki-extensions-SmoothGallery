@@ -917,6 +917,16 @@ $messages['ro'] = array(
 	'smoothgallery-gallery-not-found' => 'Galeria cerută nu există.',
 );
 
+/** tarandíne (tarandíne)
+ * @author Joetaras
+ */
+$messages['roa-tara'] = array(
+	'smoothgallery' => 'SmoothGallery',
+	'smoothgallery-title' => 'SmoothGallery',
+	'smoothgallery-smoothgallerytitle' => 'SmoothGallery: $1',
+	'smoothgallery-error' => '<b>Errore de SmoothGallery:</b>',
+);
+
 /** Russian (русский)
  * @author Александр Сигачёв
  */

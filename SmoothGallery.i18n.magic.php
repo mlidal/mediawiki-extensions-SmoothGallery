@@ -52,7 +52,7 @@ $magicWords['mk'] = array(
 
 /** Marathi (मराठी) */
 $magicWords['mr'] = array(
-	'sgallery' => array( 0, 'मृदूदिर्घा', 'sgallery' ),
+	'sgallery' => array( 0, 'मृदूदिर्घा' ),
 );
 
 /** Low Saxon (Netherlands) (Nedersaksies) */
