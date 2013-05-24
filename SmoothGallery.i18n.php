@@ -922,9 +922,21 @@ $messages['ro'] = array(
  */
 $messages['roa-tara'] = array(
 	'smoothgallery' => 'SmoothGallery',
+	'smoothgallery-desc' => "Permette a l'utinde de ccrejà gallerie cu le immaggine ca onne state carecate.
+Dèje cchiù opziune de SmmothGallery.",
 	'smoothgallery-title' => 'SmoothGallery',
 	'smoothgallery-smoothgallerytitle' => 'SmoothGallery: $1',
 	'smoothgallery-error' => '<b>Errore de SmoothGallery:</b>',
+	'smoothgallery-gallery-not-found' => "'A gallerie cercate non g'esiste.",
+	'smoothgallery-not-found' => "Nisciuna immaggine ha state aggiunde jndr'à gallerie.
+Pe piacere aggiunge almene 'n'immaggine.",
+	'smoothgallery-no-images' => "Nisciuna immaggine ha state acchiate jndr'à sta gallerie.
+Assecurate ca {{PLURAL:$3|l'immaggine cercate esiste|tutte le immaggine cercate esistone}}.
+{{PLURAL:$2|'A seguende immaggine non ge stè|Le seguende immaggine non ge stonne}}: $1",
+	'smoothgallery-invalid-images' => "{{PLURAL:$2|'A seguende immaggine cercate ere|Le seguende immaggine erane}} de 'nu tipe invalide: $1",
+	'smoothgallery-unexpected-error' => "S'ha verificate 'n'errore inaspettate.
+Pe piacere manne 'na segnalazione de bug.",
+	'smoothgallery-javascript-disabled' => "JavaScript jè richieste pe 'ndrucà bbuène le gallerie.",
 );
 
 /** Russian (русский)
