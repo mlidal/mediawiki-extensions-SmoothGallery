@@ -726,7 +726,7 @@ Sila failkan laporan pepijat.',
 	'smoothgallery-javascript-disabled' => 'JavaScript diperlukan untuk memaparkan galeri ini dengan betul.',
 );
 
-/** Norwegian Bokmål (norsk (bokmål)‎)
+/** Norwegian Bokmål (norsk bokmål)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
@@ -769,7 +769,7 @@ Maak melding van deze fout.',
 	'smoothgallery-javascript-disabled' => 'JavaScript dient ingeschakeld te zijn om deze galerij goed te kunnen bekijken.',
 );
 
-/** Norwegian Nynorsk (norsk (nynorsk)‎)
+/** Norwegian Nynorsk (norsk nynorsk)
  * @author Harald Khan
  * @author Njardarlogar
  */
