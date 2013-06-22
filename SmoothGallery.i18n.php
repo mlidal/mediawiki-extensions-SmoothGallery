@@ -100,6 +100,27 @@ $messages['arz'] = array(
 	'smoothgallery-javascript-disabled' => 'الجافاسكريبت مطلوب لرؤية هذا المعرض جيدا.',
 );
 
+/** Asturian (asturianu)
+ * @author Xuacu
+ */
+$messages['ast'] = array(
+	'smoothgallery' => 'SmoothGallery',
+	'smoothgallery-desc' => 'Permite a los usuarios crear galeríes cole imaxes que se xubieron.
+Permite la mayoría de les opciones de SmoothGallery',
+	'smoothgallery-title' => 'SmoothGallery',
+	'smoothgallery-smoothgallerytitle' => 'SmoothGallery: $1',
+	'smoothgallery-error' => '<b>Error de SmoothGallery:</b>',
+	'smoothgallery-gallery-not-found' => 'La galería solicitada nun esiste.',
+	'smoothgallery-not-found' => "Nun s'añadieron imaxes a la galería. Añada polo menos una imaxe.",
+	'smoothgallery-no-images' => "Nun s'alcontraron imaxes nesta galería.
+Asegúrese de qu'{{PLURAL:$3|esiste la imaxe solicitada|esisten toles imaxes solicitaes}}.
+Nun s'{{PLURAL:$2|alcontró la siguiente imaxe|alcontraron les siguientes imaxes}}: $1",
+	'smoothgallery-invalid-images' => "{{PLURAL:$2|La siguiente imaxe solicitada ye|Les siguientes imaxes solicitaes son}} d'un tipu inválidu: $1",
+	'smoothgallery-unexpected-error' => "Hebo un error inesperáu.
+Por favor unvie un informe d'error.",
+	'smoothgallery-javascript-disabled' => 'Necesítase JavaScript pa ver esta galería correutamente.',
+);
+
 /** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  * @author Zedlik
