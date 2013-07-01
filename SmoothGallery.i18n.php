@@ -36,9 +36,12 @@ Please file a bug report.',
  * @author Umherirrender
  */
 $messages['qqq'] = array(
+	'smoothgallery' => '{{Identical|SmoothGallery}}',
 	'smoothgallery-desc' => '{{desc|name=Smooth Gallery|url=http://www.mediawiki.org/wiki/Extension:SmoothGallery}}',
+	'smoothgallery-title' => '{{Identical|SmoothGallery}}',
 	'smoothgallery-smoothgallerytitle' => 'Unused at this time. Parameters:
-* $1 - ...',
+* $1 - ...
+{{Identical|SmoothGallery}}',
 	'smoothgallery-pagetext' => '{{notranslate}}',
 	'smoothgallery-no-images' => '* $1 is a comma separated list
 * $2 is the number of elements in the list
