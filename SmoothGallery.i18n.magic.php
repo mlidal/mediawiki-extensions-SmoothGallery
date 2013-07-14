@@ -35,6 +35,11 @@ $magicWords['es'] = array(
 	'sgallery' => array( 0, 'galerías', 'galerias' ),
 );
 
+/** French (français) */
+$magicWords['fr'] = array(
+	'sgallery' => array( 0, 'diaporama' ),
+);
+
 /** Japanese (日本語) */
 $magicWords['ja'] = array(
 	'sgallery' => array( 0, 'Sギャラリー' ),
