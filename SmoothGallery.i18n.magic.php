@@ -62,7 +62,7 @@ $magicWords['mr'] = array(
 
 /** Low Saxon (Netherlands) (Nedersaksies) */
 $magicWords['nds-nl'] = array(
-	'sgallery' => array( 0, 'suutstallige', 'sgalerij' ),
+	'sgallery' => array( 0, 'suutstallige' ),
 );
 
 /** Dutch (Nederlands) */
