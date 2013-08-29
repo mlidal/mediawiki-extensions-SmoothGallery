@@ -579,7 +579,7 @@ SmoothGallery のほとんどのオプションを利用できるようにする
 	'smoothgallery-no-images' => 'このギャラリーには画像がありません。
 指定した{{PLURAL:$3|画像が|画像がすべて}}存在するか確認してください。
 以下の{{PLURAL:$2|画像}}は見つかりませんでした: $1',
-	'smoothgallery-invalid-images' => '要求された次の{{PLURAL:$2|画像}}は不正な形式です: $1',
+	'smoothgallery-invalid-images' => '要求された以下の{{PLURAL:$2|画像}}は無効な形式です: $1',
 	'smoothgallery-unexpected-error' => '予期しないエラーが発生しました。
 バグ報告を提出してください。',
 	'smoothgallery-javascript-disabled' => 'このギャラリーを正しく閲覧するには JavaScript が必要です。',
