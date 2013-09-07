@@ -43,11 +43,13 @@ $messages['qqq'] = array(
 * $1 - ...
 {{Identical|SmoothGallery}}',
 	'smoothgallery-pagetext' => '{{notranslate}}',
-	'smoothgallery-no-images' => '* $1 is a comma separated list
-* $2 is the number of elements in the list
-* $3 is the number of images actually requested',
-	'smoothgallery-invalid-images' => '* $1 is a comma separated list
-* $2 is the number of elements in the list',
+	'smoothgallery-no-images' => 'Parameters:
+* $1 - a list of missing images (comma-separated)
+* $2 - the number of missing images
+* $3 - the number of images actually requested, or the number of missing images',
+	'smoothgallery-invalid-images' => 'Parameters:
+* $1 - list of images (comma-separated)
+* $2 - the number of images in the list',
 );
 
 /** Afrikaans (Afrikaans)
