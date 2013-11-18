@@ -579,7 +579,7 @@ SmoothGallery のほとんどのオプションを利用できるようにする
 	'smoothgallery-not-found' => 'ギャラリーに画像がありません。
 画像を少なくとも1つ指定してください。',
 	'smoothgallery-no-images' => 'このギャラリーには画像がありません。
-指定した{{PLURAL:$3|画像が|画像がすべて}}存在するか確認してください。
+{{PLURAL:$3|指定した画像が存在する|指定した画像がすべて存在する}}か確認してください。
 以下の{{PLURAL:$2|画像}}は見つかりませんでした: $1',
 	'smoothgallery-invalid-images' => '要求された以下の{{PLURAL:$2|画像}}は無効な形式です: $1',
 	'smoothgallery-unexpected-error' => '予期しないエラーが発生しました。
