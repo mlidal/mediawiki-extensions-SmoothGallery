@@ -17,7 +17,7 @@ $magicWords['ar'] = array(
 
 /** Egyptian Spoken Arabic (مصرى) */
 $magicWords['arz'] = array(
-	'sgallery' => array( 0, 'معرض_سلس', 'sgallery' ),
+	'sgallery' => array( 0, 'معرض_سلس' ),
 );
 
 /** German (Deutsch) */
