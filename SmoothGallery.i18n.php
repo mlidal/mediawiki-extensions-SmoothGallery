@@ -141,9 +141,9 @@ $messages['be-tarask'] = array(
 	'smoothgallery-not-found' => 'Выявы не былі дададзеныя ў галерэю.
 Калі ласка, дадайце хаця б адну.',
 	'smoothgallery-no-images' => 'У гэтай галерэі не было знойдзена выяваў.
-Упэўніцеся, што {{PLURAL:$3|запытаная выява існуе|запытаныя выявы існуюць}}.
-{{PLURAL:$2|Наступная выява ня знойдзеная|Наступныя выявы ня знойдзеныя}}: $1',
-	'smoothgallery-invalid-images' => '{{PLURAL:$2|Наступная запытаная выява мае|Наступныя запытаныя выявы маюць}} няслушны тып: $1',
+Упэўніцеся, што {{PLURAL:$3|1=запытаная выява існуе|запытаныя выявы існуюць}}.
+{{PLURAL:$2|1=Наступная выява ня знойдзеная|Наступныя выявы ня знойдзеныя}}: $1', # Fuzzy
+	'smoothgallery-invalid-images' => '{{PLURAL:$2|1=Наступная запытаная выява мае|Наступныя запытаныя выявы маюць}} няслушны тып: $1', # Fuzzy
 	'smoothgallery-unexpected-error' => 'Адбылася нечаканая памылка.
 Калі ласка, дашліце паведамленьне пра памылку.',
 	'smoothgallery-javascript-disabled' => 'Для прагляду гэтай галерэі неабходны JavaScript.',
@@ -977,9 +977,9 @@ $messages['ru'] = array(
 	'smoothgallery-gallery-not-found' => 'Запрашиваемой галереи не существует.',
 	'smoothgallery-not-found' => 'В галерею не было добавлено изображений. Пожалуйста, добавте хотя бы одно.',
 	'smoothgallery-no-images' => 'Не найдено изображений для этой галереи.
-Убедитесь, что {{PLURAL:$3|требуемое изображение существует|все требуемые изображения существуют}}.
-{{PLURAL:$2|Следующее изображение не найдено|Следующие изображения не найдены}}: $1',
-	'smoothgallery-invalid-images' => '{{PLURAL:$2|Следующее требуемое изображение имеет|Следующие требуемые изображения имеют}} неправильный тип: $1',
+Убедитесь, что {{PLURAL:$3|1=требуемое изображение существует|все требуемые изображения существуют}}.
+{{PLURAL:$2|1=Следующее изображение не найдено|Следующие изображения не найдены}}: $1', # Fuzzy
+	'smoothgallery-invalid-images' => '{{PLURAL:$2|1=Следующее требуемое изображение имеет|Следующие требуемые изображения имеют}} неправильный тип: $1', # Fuzzy
 	'smoothgallery-unexpected-error' => 'Произошла непредвиденная ошибка.
 Пожалуйста, отправьте отчёт об ошибке.',
 	'smoothgallery-javascript-disabled' => 'Для правильной работы этой галереи требуется Javascript.',
@@ -1030,9 +1030,9 @@ $messages['sr-ec'] = array(
 	'smoothgallery-gallery-not-found' => 'Захтевана галерија не постоји.',
 	'smoothgallery-not-found' => 'Нема слика у галерији. Додајте најмање једну слику.',
 	'smoothgallery-no-images' => 'Нису нађене слике у овој галерији.
-Осигурајте се да {{PLURAL:$3|захтевана слика постоји|све захтеване слике постоје}}.
-{{PLURAL:$2|Следећа слика није нађена|Следеће слике нису нађене}}: $1',
-	'smoothgallery-invalid-images' => 'Тип {{PLURAL:$2|следеће захтеване слике|следећих захтеваних слика}} је био непознат: $1',
+Осигурајте се да {{PLURAL:$3|1=захтевана слика постоји|све захтеване слике постоје}}.
+{{PLURAL:$2|1=Следећа слика није нађена|Следеће слике нису нађене}}: $1', # Fuzzy
+	'smoothgallery-invalid-images' => 'Тип {{PLURAL:$2|1=следеће захтеване слике|следећих захтеваних слика}} је био непознат: $1', # Fuzzy
 	'smoothgallery-unexpected-error' => 'Десила се неочекивана грешка. Молимо обавестите администраторе.',
 	'smoothgallery-javascript-disabled' => 'Јаваскрипт је потребан за правилан приказ галерије.',
 );
@@ -1051,9 +1051,9 @@ Omogućuje veći broj opcija za SmoothGallery.',
 	'smoothgallery-gallery-not-found' => 'Zahtevana galerija ne postoji.',
 	'smoothgallery-not-found' => 'Nema slika u galeriji. Dodajte najmanje jednu sliku.',
 	'smoothgallery-no-images' => 'Nisu nađene slike u ovoj galeriji.
-Osigurajte se da {{PLURAL:$3|zahtevana slika postoji|sve zahtevane slike postoje}}.
-{{PLURAL:$2|Sledeća slika nije nađena|Sledeće slike nisu nađene}}: $1',
-	'smoothgallery-invalid-images' => 'Tip {{PLURAL:$2|sledeće zahtevane slike|sledećih zahtevanih slika}} je bio nepoznat: $1',
+Osigurajte se da {{PLURAL:$3|1=zahtevana slika postoji|sve zahtevane slike postoje}}.
+{{PLURAL:$2|1=Sledeća slika nije nađena|Sledeće slike nisu nađene}}: $1', # Fuzzy
+	'smoothgallery-invalid-images' => 'Tip {{PLURAL:$2|1=sledeće zahtevane slike|sledećih zahtevanih slika}} je bio nepoznat: $1', # Fuzzy
 	'smoothgallery-unexpected-error' => 'Desila se neočekivana greška. Molimo obavestite administratore.',
 	'smoothgallery-javascript-disabled' => 'Javaskript je potreban za pravilan prikaz galerije.',
 );
@@ -1111,6 +1111,7 @@ $messages['tr'] = array(
 );
 
 /** Ukrainian (українська)
+ * @author Andriykopanytsia
  * @author Steve.rusyn
  * @author SteveR
  * @author Ата
@@ -1125,9 +1126,9 @@ $messages['uk'] = array(
 	'smoothgallery-gallery-not-found' => 'Запитувана галерея не існує.',
 	'smoothgallery-not-found' => 'До галереї не було додано жодного зображення. Будь ласка, додайте принаймні одне.',
 	'smoothgallery-no-images' => 'Не було знайдено жодних зображень у цій галереї.
-Переконайтеся, що {{PLURAL:$3|запитуване зображення існує|запитувані зображення існують}}.
-Було знайдено {{PLURAL:$2|таке зображення|такі зображення}}: $1',
-	'smoothgallery-invalid-images' => '{{PLURAL:$2|Запитуване зображення має|Такі запитувані зображення мають}} неприпустимий тип: $1',
+Переконайтеся, що {{PLURAL:$3|1=запитуване зображення існує|запитувані зображення існують}}.
+Було знайдено {{PLURAL:$2|1=таке зображення|такі зображення}}: $1',
+	'smoothgallery-invalid-images' => '{{PLURAL:$2|1=Запитуване зображення має|Такі запитувані зображення мають}} неприпустимий тип: $1',
 	'smoothgallery-unexpected-error' => 'Сталася неочікувана помилка.
 Будь ласка, надішліть звіт про помилку.',
 	'smoothgallery-javascript-disabled' => 'Для належного перегляду галереї необхідний JavaScript.',
