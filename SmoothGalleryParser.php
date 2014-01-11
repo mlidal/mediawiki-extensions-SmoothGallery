@@ -177,7 +177,6 @@ class SmoothGalleryParser {
 	}
 
 	function parseImage( $title, $parser, $galleryArray, $description ) {
-		global $wgUser;
 		global $wgSmoothGalleryThumbHeight, $wgSmoothGalleryThumbWidth;
 
 		$imageArray = Array();
@@ -242,13 +241,11 @@ class SmoothGalleryParser {
 			}
 		}
 
-		$skin = $wgUser->getSkin();
-
 		// Everything is checked, and converted; add to the array and return
 		$imageArray["title"] = $title;
 
 		// We need the following for the image's div
-		$imageArray["heading"] = $skin->makeKnownLinkObj( $img_obj->getTitle(), $img_obj->getName() );
+		$imageArray["heading"] = Linker::makeKnownLinkObj( $img_obj->getTitle(), $img_obj->getName() );
 		$imageArray["description"] = $description;
 		$imageArray["full_url"] = $title->getFullURL();
 		$imageArray["view_url"] = $img_obj->getViewURL();
