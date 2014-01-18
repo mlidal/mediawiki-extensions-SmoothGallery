@@ -634,6 +634,17 @@ $messages['km'] = array(
 	'smoothgallery-javascript-disabled' => 'តម្រូវឱ្យមាន Javascript ដើម្បី​មើលបានល្អ​វិចិត្រសាលនេះ​។',
 );
 
+/** Korean (한국어)
+ * @author Priviet
+ */
+$messages['ko'] = array(
+	'smoothgallery-no-images' => '이 갤러리에 그림을 찾을 수 없습니다. {{PLURAL:$3|요청된 이미지가 존재하는 지}} 확인해주세요. 
+다음 {{PLURAL:$2|그림은}} 찾을 수 없었습니다:$1',
+	'smoothgallery-invalid-images' => '다음 요청된 {{PLURAL:$2|그림은}} 유효하지 않은 종류입니다: $1',
+	'smoothgallery-unexpected-error' => '예기치 못한 오류가 발생했습니다. 
+버그를 보고해주세요.',
+);
+
 /** Colognian (Ripoarisch)
  * @author Purodha
  */
