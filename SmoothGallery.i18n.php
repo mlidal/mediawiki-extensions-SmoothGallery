@@ -638,6 +638,13 @@ $messages['km'] = array(
  * @author Priviet
  */
 $messages['ko'] = array(
+	'smoothgallery' => '스무스갤러리',
+	'smoothgallery-title' => '스무스갤러리',
+	'smoothgallery-smoothgallerytitle' => '스무스갤러리:$1',
+	'smoothgallery-error' => '<b>스무스갤러리 오류:</b>',
+	'smoothgallery-gallery-not-found' => '요청한 갤러리가 없습니다.',
+	'smoothgallery-not-found' => '그림이 갤러리에 추가되지 않았습니다.
+최소 한 개의 그림을 추가해주세요.',
 	'smoothgallery-no-images' => '이 갤러리에 그림을 찾을 수 없습니다. {{PLURAL:$3|요청된 이미지가 존재하는 지}} 확인해주세요. 
 다음 {{PLURAL:$2|그림은}} 찾을 수 없었습니다:$1',
 	'smoothgallery-invalid-images' => '다음 요청된 {{PLURAL:$2|그림은}} 유효하지 않은 종류입니다: $1',
