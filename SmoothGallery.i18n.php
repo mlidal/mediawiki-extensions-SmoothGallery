@@ -650,6 +650,7 @@ $messages['ko'] = array(
 	'smoothgallery-invalid-images' => '다음 요청된 {{PLURAL:$2|그림은}} 유효하지 않은 종류입니다: $1',
 	'smoothgallery-unexpected-error' => '예기치 못한 오류가 발생했습니다. 
 버그를 보고해주세요.',
+	'smoothgallery-javascript-disabled' => '이 갤러리를 제대로 볼려면 자바스크립트가 필요합니다.',
 );
 
 /** Colognian (Ripoarisch)
