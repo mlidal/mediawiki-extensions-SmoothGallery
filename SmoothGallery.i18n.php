@@ -639,6 +639,8 @@ $messages['km'] = array(
  */
 $messages['ko'] = array(
 	'smoothgallery' => '스무스갤러리',
+	'smoothgallery-desc' => '사용자가 업로드된 그림으로 갤러리를 만들도록 합니다.
+스무스갤러리의 설정을 대부분 허용',
 	'smoothgallery-title' => '스무스갤러리',
 	'smoothgallery-smoothgallerytitle' => '스무스갤러리:$1',
 	'smoothgallery-error' => '<b>스무스갤러리 오류:</b>',
