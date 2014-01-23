@@ -1038,6 +1038,7 @@ Uistite sa, že {{PLURAL:$3|požadovaný obrázok existuje|všetky požadované 
 );
 
 /** Serbian (Cyrillic script) (српски (ћирилица)‎)
+ * @author Milicevic01
  * @author Rancher
  * @author Sasa Stefanovic
  * @author Михајло Анђелковић
@@ -1052,15 +1053,16 @@ $messages['sr-ec'] = array(
 	'smoothgallery-gallery-not-found' => 'Захтевана галерија не постоји.',
 	'smoothgallery-not-found' => 'Нема слика у галерији. Додајте најмање једну слику.',
 	'smoothgallery-no-images' => 'Нису нађене слике у овој галерији.
-Осигурајте се да {{PLURAL:$3|1=захтевана слика постоји|све захтеване слике постоје}}.
-{{PLURAL:$2|1=Следећа слика није нађена|Следеће слике нису нађене}}: $1', # Fuzzy
-	'smoothgallery-invalid-images' => 'Тип {{PLURAL:$2|1=следеће захтеване слике|следећих захтеваних слика}} је био непознат: $1', # Fuzzy
+Осигурајте се да {{PLURAL:$3|захтевана слика постоји|све захтеване слике постоје}}.
+{{PLURAL:$2|Следећа слика није нађена|Следеће слике нису нађене}}: $1',
+	'smoothgallery-invalid-images' => 'Тип {{PLURAL:$2|следеће захтеване слике|следећих захтеваних слика}} је био непознат: $1',
 	'smoothgallery-unexpected-error' => 'Десила се неочекивана грешка. Молимо обавестите администраторе.',
 	'smoothgallery-javascript-disabled' => 'Јаваскрипт је потребан за правилан приказ галерије.',
 );
 
 /** Serbian (Latin script) (srpski (latinica)‎)
  * @author Michaello
+ * @author Milicevic01
  * @author Rancher
  */
 $messages['sr-el'] = array(
@@ -1073,9 +1075,9 @@ Omogućuje veći broj opcija za SmoothGallery.',
 	'smoothgallery-gallery-not-found' => 'Zahtevana galerija ne postoji.',
 	'smoothgallery-not-found' => 'Nema slika u galeriji. Dodajte najmanje jednu sliku.',
 	'smoothgallery-no-images' => 'Nisu nađene slike u ovoj galeriji.
-Osigurajte se da {{PLURAL:$3|1=zahtevana slika postoji|sve zahtevane slike postoje}}.
-{{PLURAL:$2|1=Sledeća slika nije nađena|Sledeće slike nisu nađene}}: $1', # Fuzzy
-	'smoothgallery-invalid-images' => 'Tip {{PLURAL:$2|1=sledeće zahtevane slike|sledećih zahtevanih slika}} je bio nepoznat: $1', # Fuzzy
+Osigurajte se da {{PLURAL:$3|zahtevana slika postoji|sve zahtevane slike postoje}}.
+{{PLURAL:$2|Sledeća slika nije nađena|Sledeće slike nisu nađene}}: $1',
+	'smoothgallery-invalid-images' => 'Tip {{PLURAL:$2|sledeće zahtevane slike|sledećih zahtevanih slika}} je bio nepoznat: $1',
 	'smoothgallery-unexpected-error' => 'Desila se neočekivana greška. Molimo obavestite administratore.',
 	'smoothgallery-javascript-disabled' => 'Javaskript je potreban za pravilan prikaz galerije.',
 );
